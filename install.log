@@ -1,0 +1,4 @@
+安装需要的库
+pip install -r requirements/common.txt --trusted-host pypi.douban.com
+安装mysql-python时
+pip install MySQL-python --trusted-host pypi.douban.com
